@@ -8,6 +8,10 @@
 namespace Poncon;
 
 header('Content-Type: application/json');
+// CORS
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Headers: *");
+header("Access-Control-Allow-Methods: *");
 
 class Poncon
 {
