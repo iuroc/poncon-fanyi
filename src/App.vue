@@ -22,11 +22,21 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link active" href="https://ouyangpeng.top"
+                    <a
+                        class="nav-link active"
+                        href="https://ouyangpeng.top"
+                        target="_blank"
                         >官网</a
                     >
-                    <a class="nav-link" href="#">Github</a>
-                    <a class="nav-link" href="#">关于</a>
+                    <a
+                        class="nav-link"
+                        href="https://github.com/oyps/poncon-fanyi"
+                        target="_blank"
+                        >Github</a
+                    >
+                    <a class="nav-link" href="https://ouyangpeng.top/#about"
+                        >关于</a
+                    >
                 </div>
             </div>
         </div>
